@@ -3,7 +3,7 @@
 - 👀 I’m interested in System Analyst , Data analyst 
 - 🌱 I have Information Technology and Management Degree
 - 💞️ I’m looking to collaborate on IT careers and departments.
-- 📫 How to reach me : No, 065 3627335 , garaeverjoy72@gmail.com 
+- 📫 How to reach me : No, 073 969 3431 , garaeverjoy72@gmail.com 
 - ⚡ Fun fact: l enjoy hiking ,reading and Food.
 
 <!---
