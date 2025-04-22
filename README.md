@@ -4,6 +4,7 @@
 - 🛡 Cybersecurity & Network Security
 - 📊 Business Intelligence & Data Analytics
 - 💻 Software Development & Web Technologies
+-    Created my own Github and Github Page 
 
 ## 🔧 Skills
 - **Languages**: Python, SQL, JavaScript, R
